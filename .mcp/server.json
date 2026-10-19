@@ -1,0 +1,13 @@
+{
+  "inputs": [],
+  "servers": {
+    "file-append": {
+  "type": "stdio",
+  "command": "dotnet",
+  "args": [
+    "/Users/pro/Downloads/FileAppendMcp/FileAppendMcp",
+    "/Users/pro/Downloads/Notes"
+  ]
+}
+  }
+}
